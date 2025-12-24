@@ -66,4 +66,8 @@ unet_lr = 0.00002
 vae_batch_size = 4                                                                                                                                                             
 wandb_run_name = "last"                                                                                                                                              
 xformers = true         
+<<<<<<< HEAD
 kambing
+=======
+timestep_sampling
+>>>>>>> 901b35fa8eb754ce37e94bead7666c85936d8886
